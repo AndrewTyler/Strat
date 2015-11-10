@@ -1,0 +1,17 @@
+/*** Reset All Elements ***/
+a {
+  padding: none; }
+
+/*** Base Elements ***/
+html {
+  padding: none;
+  margin: none; }
+
+body {
+  padding: none;
+  margin: none; }
+  body main {
+    padding: none;
+    margin: none; }
+
+/*# sourceMappingURL=Strat.css.map */

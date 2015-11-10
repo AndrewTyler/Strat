@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AACA,CAAC;EACA,OAAO,EAAC,IAAI;;;ACDb,IAAI;EACH,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,IAAI;;AAGb,IAAI;EACF,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,IAAI;EACZ,SAAI;IACH,OAAO,EAAE,IAAI;IACb,MAAM,EAAE,IAAI",
+"sources": ["../SASS/frontend/base/_reset.scss","../SASS/frontend/base/_base.scss"],
+"names": [],
+"file": "Strat.css"
+}
